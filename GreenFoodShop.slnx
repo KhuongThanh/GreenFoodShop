@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Auth.API/Auth.API.csproj" Id="1b2fe2e0-dc4e-4f73-92d9-17450697430d" />
+  <Project Path="Product.API/Product.API.csproj" Id="28caa594-0ab8-4a8c-bb9f-3d0e35ec4be5" />
+</Solution>
